@@ -1,5 +1,4 @@
 clean
 shower
-eat
 Master Python!
-poop
+poopMake Money
