@@ -1,4 +1,3 @@
 clean
 shower
 Master Python!
-poopMake Money
